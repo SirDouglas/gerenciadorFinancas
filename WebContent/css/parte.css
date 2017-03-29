@@ -1,0 +1,71 @@
+body {
+background-color: #400010;
+}
+#menu a:hover {
+	color: gray;
+	text-decoration: none;
+}
+#menu a:active { 	 
+	 color: #999900;
+	 text-decoration: none;
+	 
+}
+#menu a:link {
+
+color:	#88ff4d;
+text-decoration: none;
+}
+#menu  a:visited  {
+	color: #ffff1a;
+	text-decoration: none;
+}
+
+#main {
+	
+	background-color:	 #7575a3;
+}
+
+th {
+	border: 1px solid red;
+    background-color: #0000ff;	
+}
+
+td,th {
+	border: 2px solid red;
+	
+}
+
+table {
+	border: 2px solid #4cffa6;
+	
+}
+
+label {
+	 position:absolute;
+    left:19px;
+	margin-right: 5px;
+}
+
+input {
+	 position:absolute;
+    left:120px;
+	
+}
+
+#menu ul li {
+	list-style: none;
+	display: inline-block;
+}
+#menu li {
+	width: 130px;
+}
+
+button {
+	position: relative;
+		padding-top: 40px;
+}
+
+footer {
+		background-color: #2d3f5c;
+	color: white;
+}
